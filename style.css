@@ -1,0 +1,10 @@
+body {
+    overflow-y: hidden; /* Hide vertical scrollbar */
+    overflow-x: hidden; /* Hide horizontal scrollbar */
+}
+p {
+    text-align: center;
+    font-size: 120px;
+    font-family: Arial;
+    margin: 38vh;
+}
